@@ -1,4 +1,4 @@
-const URL_LOAD = `http://localhost:3000/products.json`;
+const URL_LOAD = `https://ormhildr.github.io/chaika-test/products.json`;
 
 const SUCCESS_STATUS = 200;
 const TIMEOUT_IN_MS = 10000;
